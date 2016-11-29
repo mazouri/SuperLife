@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SuperLife.iml" filepath="$PROJECT_DIR$/SuperLife.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-account/lib-account.iml" filepath="$PROJECT_DIR$/lib-account/lib-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-camera/lib-camera.iml" filepath="$PROJECT_DIR$/lib-camera/lib-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-cloudapi/lib-cloudapi.iml" filepath="$PROJECT_DIR$/lib-cloudapi/lib-cloudapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-database/lib-database.iml" filepath="$PROJECT_DIR$/lib-database/lib-database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-res/lib-res.iml" filepath="$PROJECT_DIR$/lib-res/lib-res.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-settings/lib-settings.iml" filepath="$PROJECT_DIR$/lib-settings/lib-settings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-upgrade/lib-upgrade.iml" filepath="$PROJECT_DIR$/lib-upgrade/lib-upgrade.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+include ':app', ':lib-account', ':lib-upgrade', ':lib-settings', ':lib-cloudapi', ':lib-res', ':lib-database', ':lib-camera'
